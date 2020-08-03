@@ -2,6 +2,8 @@
 
 CarIO will be an online multiplayer game, where the players have to shoot other players in order to gain points and power-ups.
 
+The game is developed in Unity, the models are created with Blender3D.
+
 ## Demo
 [![CarIO demo](http://img.youtube.com/vi/1-X03qjy89c/0.jpg)](http://www.youtube.com/watch?v=1-X03qjy89c "")
 
