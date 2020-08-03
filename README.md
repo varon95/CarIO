@@ -22,5 +22,5 @@ Download [this](https://drive.google.com/drive/folders/10jziMZby-YWOA7CJrinsFg9L
 * Power-ups
 * Fine-tuning
 
-
+![Low poly car models, with turrets](https://github.com/varon95/CarIO/blob/master/cars.png)
 
